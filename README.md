@@ -1,2 +1,0 @@
-# ToDoReactRedux
-Created with CodeSandbox
